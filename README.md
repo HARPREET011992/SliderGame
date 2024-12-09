@@ -26,7 +26,7 @@ Slider Game is a fun and interactive project built using both UIKit and SwiftUI.
 
 ## Clone the Repository:
 
-git clone <repository_url>
+git clone  https://github.com/HARPREET011992/SliderGame.git
 
 **Open the Project:**
 Open the .xcodeproj or .xcworkspace file in Xcode.
